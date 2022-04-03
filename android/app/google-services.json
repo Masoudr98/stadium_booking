@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "479987466363",
+    "firebase_url": "https://reserve-stadium.firebaseio.com",
+    "project_id": "reserve-stadium",
+    "storage_bucket": "reserve-stadium.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479987466363:android:7521a6c8dea134c9ae22de",
+        "android_client_info": {
+          "package_name": "com.selected.stadium_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479987466363-c8eu1jkc648vmfadvveidkv795ghlio1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ9VCT9QwTapI7dTusYtUJHqV-YDgIQb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479987466363-c8eu1jkc648vmfadvveidkv795ghlio1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
